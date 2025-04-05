@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gusyt091/Krypteringsprocessor/src/simdir
+Ett_um_kryptering
+Z1 w1743856813
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+R0
+Z5 8../project.vhd
+Z6 F../project.vhd
+l0
+L5 1
+VEVF[2O[eg76Wk>eaE=B1B3
+!s100 EFG]F0JT?`e4J_>72:CJR0
+Z7 OL;C;2021.3;73
+32
+Z8 !s110 1743857228
+!i10b 1
+Z9 !s108 1743857228.000000
+Z10 !s90 ../project.vhd|
+Z11 !s107 ../project.vhd|
+!i113 0
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 16 tt_um_kryptering 0 22 EVF[2O[eg76Wk>eaE=B1B3
+!i122 8
+l56
+L18 122
+VMCW6I^jGa?A[igTgP0ded1
+!s100 k^3B8?9[No=PN;6KhPA@f0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Ett_um_kryptering_tb
+Z13 w1743856957
+R2
+R3
+R4
+!i122 9
+R0
+Z14 8../project_tb.vhd
+Z15 F../project_tb.vhd
+l0
+L5 1
+VgMJUJ<Nkl[k<S@@BZAe7V3
+!s100 CXdB15h]o6=1Lg]zOPiCU0
+R7
+32
+Z16 !s110 1743857229
+!i10b 1
+R9
+Z17 !s90 ../project_tb.vhd|
+Z18 !s107 ../project_tb.vhd|
+!i113 0
+R12
+Afunc
+R2
+R3
+R4
+Z19 DEx4 work 19 tt_um_kryptering_tb 0 22 gMJUJ<Nkl[k<S@@BZAe7V3
+!i122 9
+l39
+Z20 L8 87
+Z21 Vo@zW_`87kzJ7gOP=5X^TN1
+Z22 !s100 MCP>3gSXnQo?G]`gRCB:62
+R7
+32
+R16
+!i10b 1
+R9
+R17
+R18
+!i113 0
+R12

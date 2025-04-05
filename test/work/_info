@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gusyt091/Krypteringsprocessor/test
+Ett_um_kryptering
+Z1 w1743855461
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z5 8../src/project.vhdl
+Z6 F../src/project.vhdl
+l0
+L5 1
+V9]@R`6_g569DO^bM0Tf:X3
+!s100 ;Mado2BiaifV2bE]IE2Mi3
+Z7 OL;C;2021.3;73
+32
+Z8 !s110 1743855463
+!i10b 1
+Z9 !s108 1743855463.000000
+Z10 !s90 ../src/project.vhdl|
+!s107 ../src/project.vhdl|
+!i113 0
+Z11 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 16 tt_um_kryptering 0 22 9]@R`6_g569DO^bM0Tf:X3
+!i122 2
+l55
+L18 113
+VLPlD9>K<X8zMH?=ihj;JR0
+!s100 0eO3WmjJ<iO@5FKD`b^ZD3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z12 !s107 ../src/project.vhdl|
+!i113 0
+R11

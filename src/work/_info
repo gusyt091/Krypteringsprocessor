@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gusyt091/Krypteringsprocessor/src
+Ett_um_kryptering_tb
+Z1 w1743856957
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z5 8project_tb.vhd
+Z6 Fproject_tb.vhd
+l0
+L5 1
+Vb`1^oAdSiIeMSJ>OSo3:X0
+!s100 CXdB15h]o6=1Lg]zOPiCU0
+Z7 OL;C;2021.3;73
+32
+Z8 !s110 1743857199
+!i10b 1
+Z9 !s108 1743857199.000000
+Z10 !s90 -work|work|project_tb.vhd|
+Z11 !s107 project_tb.vhd|
+!i113 0
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Afunc
+R2
+R3
+R4
+DEx4 work 19 tt_um_kryptering_tb 0 22 b`1^oAdSiIeMSJ>OSo3:X0
+!i122 1
+l39
+Z14 L8 87
+V35S9:Jd]8[L]g:l=Q1l@>0
+Z15 !s100 MCP>3gSXnQo?G]`gRCB:62
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
